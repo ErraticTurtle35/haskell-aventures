@@ -1,0 +1,8 @@
+Test Input
+I like Haskell
+Haskell is great
+I/O is fun
+
+123456789
+
+O'Sullivan, Bryan. Real World Haskell: Code You Can Believe In (p. 171). O'Reilly Media. Kindle Edition. 
